@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/github.io/about-games-react-redux/static/js/main.16a8a0c5.js",
-    "static/js/787.48cc75f0.chunk.js": "/github.io/about-games-react-redux/static/js/787.48cc75f0.chunk.js",
-    "static/media/game.avif": "/github.io/about-games-react-redux/static/media/game.56875ebb359ae4978615.avif",
-    "index.html": "/github.io/about-games-react-redux/index.html",
-    "main.16a8a0c5.js.map": "/github.io/about-games-react-redux/static/js/main.16a8a0c5.js.map",
-    "787.48cc75f0.chunk.js.map": "/github.io/about-games-react-redux/static/js/787.48cc75f0.chunk.js.map"
+    "main.js": "/about-games-react-redux/static/js/main.6eb1f4e8.js",
+    "static/js/787.48cc75f0.chunk.js": "/about-games-react-redux/static/js/787.48cc75f0.chunk.js",
+    "static/media/game.avif": "/about-games-react-redux/static/media/game.56875ebb359ae4978615.avif",
+    "index.html": "/about-games-react-redux/index.html",
+    "main.6eb1f4e8.js.map": "/about-games-react-redux/static/js/main.6eb1f4e8.js.map",
+    "787.48cc75f0.chunk.js.map": "/about-games-react-redux/static/js/787.48cc75f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.16a8a0c5.js"
+    "static/js/main.6eb1f4e8.js"
   ]
 }
